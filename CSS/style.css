@@ -11,3 +11,37 @@
 .banner-text span{
     color: #006eff;
 }
+
+/* footer css area start*/
+.footer-top{
+    background:#1c1c1c;
+    padding: 80px 0;
+}
+.footer-menu p{
+    margin: 5px 0;
+    color: white;
+}
+.footer-menu p:hover{
+    color: #009988;
+}
+.fb-social ul{
+    text-align: right;
+    margin-right: 10px;
+}
+.fb-social ul li a{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 17px;
+    color: #ddd;
+    background: #1c1c1c;
+    margin: 0 5px;
+}
+.fb-social ul li a:hover{
+    background: #d54ab6;
+    border-radius: 5px;
+}
+
+
