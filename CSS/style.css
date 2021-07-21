@@ -1,0 +1,13 @@
+.banner{
+    background: url(../images/banner-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 220px;  
+}
+.banner h1{
+    color: #ffa500;;
+}
+.banner-text span{
+    color: #006eff;
+}
